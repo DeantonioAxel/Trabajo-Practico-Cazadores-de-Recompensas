@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+G:\Mi unidad\PAPELES UNLAM\PROGRAMACIÓN BÁSICA II\eclipseWorkspaceTrabajoPracticoFinal\.metadata\.plugins\org.eclipse.jdt.core
+2914769634.index
+2235428316.index
+1865797976.index
