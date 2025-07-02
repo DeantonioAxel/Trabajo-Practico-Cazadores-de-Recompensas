@@ -1,0 +1,12 @@
+package ar.edu.unlam.alumno.pb2.cazaRecompensas;
+
+public class CazadorRural extends Cazador{
+
+	public CazadorRural(String nombre, Integer experiencia) {
+		super(nombre, experiencia);
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+
+}

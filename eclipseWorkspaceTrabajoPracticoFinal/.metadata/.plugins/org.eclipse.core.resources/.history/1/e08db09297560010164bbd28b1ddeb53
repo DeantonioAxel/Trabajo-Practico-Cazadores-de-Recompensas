@@ -1,0 +1,15 @@
+package ar.edu.unlam.alumno.pb2.cazador;
+
+public abstract class Cazador {
+	
+	protected String nombre;
+	protected Integer experiencia;
+	
+	public Cazador(String nombre, Integer experiencia) {
+		this.experiencia = experiencia;
+		this.nombre = nombre;
+	}
+	
+	public abstract Integer sumarExperiencia();
+
+}

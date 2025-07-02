@@ -1,0 +1,20 @@
+package ar.edu.unlam.alumno.pb2.agencia;
+
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
+
+import ar.edu.unlam.alumno.pb2.cazaRecompensas.Cazador;
+import ar.edu.unlam.alumno.pb2.profugos.Profugo;
+
+public class Agencia {
+	
+	private List<Cazador> listaCazadores = new LinkedList<Cazador>();
+	private List<Profugo> listaProfugos = new LinkedList<Profugo>();
+	private Map<Cazador, List<Profugo>> capturados = new TreeMap<Cazador, List<Profugo>>();
+	
+	public Agencia() {
+		
+	}
+}
