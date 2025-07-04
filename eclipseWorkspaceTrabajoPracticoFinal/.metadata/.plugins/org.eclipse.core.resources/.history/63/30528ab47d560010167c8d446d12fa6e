@@ -1,7 +1,0 @@
-package ar.edu.unlam.alumno.pb2.cazaRecompensas;
-
-public class CazadorNocturno {
-	public CazadorNocturno() {
-
-	}
-}

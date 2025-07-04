@@ -1,8 +1,0 @@
-package ar.edu.unlam.alumno.pb2.Zona;
-
-public class Zona {
-
-	public Zona() {
-
-	}
-}

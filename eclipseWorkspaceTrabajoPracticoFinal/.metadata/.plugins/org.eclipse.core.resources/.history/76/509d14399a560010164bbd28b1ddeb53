@@ -1,6 +1,0 @@
-package ar.edu.unlam.alumno.pb2.profugo;
-
-public class Profugo {
-	private String nombreProfugo;
-
-}

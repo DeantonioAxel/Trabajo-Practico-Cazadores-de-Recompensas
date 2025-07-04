@@ -1,5 +1,0 @@
-package ar.edu.unlam.alumno.pb2.cazador;
-
-public abstract class Cazador {
-
-}
